@@ -1,0 +1,13 @@
+identifier: sam4s_xplained_pro
+name: SAM4S Xplained Pro
+type: mcu
+arch: arm
+toolchain:
+  - zephyr
+  - gnuarmemb
+flash: 512
+ram: 128
+supported:
+  - gpio
+  - uart
+vendor: atmel

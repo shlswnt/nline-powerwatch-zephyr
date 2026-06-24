@@ -1,0 +1,6 @@
+board:
+  name: sam4s_xplained_pro
+  full_name: SAM4S Xplained Pro
+  vendor: atmel
+  socs:
+    - name: sam4s8b
